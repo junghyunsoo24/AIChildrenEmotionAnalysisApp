@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="17dp"
+        android:text="EmotionApp에 오신 것을 환영합니다!"/>
+
+    <View
+        android:layout_height="10dp"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="#D4D4D3"/>
+
+
+    <Button
+        android:layout_height="100dp"
+        android:layout_width="100dp"
+        android:text="로그인"
+        android:layout_marginTop="100dp"/>
+
+    <Button
+        android:layout_height="100dp"
+        android:layout_width="100dp"
+        android:text="회원가입"
+        android:layout_marginTop="100dp"/>
+
+
+</LinearLayout>
