@@ -13,11 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "SIGEmotionAnalysis"
-include ':app'
-include ':emotionapplogin'
-include ':emotionappnewmember'
-include ':ch8_event'
-include ':ch13_activity'
-include ':ch17_database'
-include ':ch20_firebase'
+include ':ch18_network'
+include ':practice1'
 include ':emotionanalysis'

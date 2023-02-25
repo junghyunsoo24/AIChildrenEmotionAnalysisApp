@@ -10,14 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/ch13_activity" />
-            <option value="$PROJECT_DIR$/ch17_database" />
-            <option value="$PROJECT_DIR$/ch20_firebase" />
-            <option value="$PROJECT_DIR$/ch8_event" />
+            <option value="$PROJECT_DIR$/ch18_network" />
             <option value="$PROJECT_DIR$/emotionanalysis" />
-            <option value="$PROJECT_DIR$/emotionapplogin" />
-            <option value="$PROJECT_DIR$/emotionappnewmember" />
+            <option value="$PROJECT_DIR$/practice1" />
           </set>
         </option>
       </GradleProjectSettings>
